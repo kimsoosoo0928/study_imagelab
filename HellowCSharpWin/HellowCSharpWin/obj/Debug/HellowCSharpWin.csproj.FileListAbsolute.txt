@@ -1,0 +1,10 @@
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csproj.AssemblyReference.cache
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.Calculator.resources
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.Properties.Resources.resources
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csproj.GenerateResource.cache
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csproj.CoreCompileInputs.cache
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.exe.config
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.exe
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.pdb
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.exe
+D:\workspace\study_imagelab\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.pdb
